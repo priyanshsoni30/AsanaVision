@@ -13,7 +13,7 @@ AsanaVision is a web-based application that detects and classifies yoga poses us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vaibhavsoni04/AsanaVision.git
+    git clone https://github.com/priyanshsoni30/AsanaVision.git
     ```
    
 2. Install the required dependencies:
